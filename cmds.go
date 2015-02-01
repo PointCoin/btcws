@@ -8,8 +8,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/btcsuite/btcjson"
-	"github.com/btcsuite/btcwire"
+	"github.com/PointCoin/btcjson"
+	"github.com/PointCoin/btcwire"
 )
 
 // Help texts
